@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @itssamcuz
-- 👀 I’m interested in learning how to code.
+- 👋 Hi, I’m Sam!
+- 👀 I’m interested all aspects of coding.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m open to collaborating on anything! I love meeting new people and I'm eager learn in the process!
 - 📫 You can reach me on instagram at: 'sam_wardpickering'.
